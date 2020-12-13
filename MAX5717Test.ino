@@ -1,3 +1,8 @@
+/*
+ * 16-bit MAX5717A Voltage Source Firmware
+ * http://blog.symedia.pl/2020/12/DIY-arduino-16bit-voltage-source-max5717a.html
+ */
+
 #include <SPI.h>
 #include <Encoder.h>
 #include <Wire.h>
